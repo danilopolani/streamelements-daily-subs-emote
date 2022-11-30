@@ -1,0 +1,13 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  color: {{fontColor}};
+  font-size: {{fontSize}}px;
+  overflow: hidden;
+  font-weight: 600;
+  text-align: center;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 0;
+}

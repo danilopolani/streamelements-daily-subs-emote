@@ -1,0 +1,93 @@
+{
+  "fontColor": {
+    "type": "colorpicker",
+    "label": "Font color",
+    "value": "rgb(255, 255, 255)"
+  },
+  "fontSize": {
+    "type": "slider",
+    "label": "Font size",
+    "value": 24,
+    "min": 10,
+    "max": 50,
+    "step": 1
+  },
+  "startingFrom": {
+    "type": "number",
+    "label": "Start counter from",
+    "value": 0
+  },
+  "defaultEmote": {
+    "type": "text",
+    "label": "Default emote",
+    "value": "https://cdn.7tv.app/emote/60ae6a7b117ec68ca434404e/2x.webp"
+  },
+  "from1": {
+    "group": "Range 1",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 5
+  },
+  "emote1": {
+    "group": "Range 1",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/60b0c36388e8246a4b120d7e/2x.webp"
+  },
+  "from2": {
+    "group": "Range 2",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 10
+  },
+  "emote2": {
+    "group": "Range 2",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/60aec2196cfcffe15f4e4f93/2x.webp"
+  },
+  "from3": {
+    "group": "Range 3",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 15
+  },
+  "emote3": {
+    "group": "Range 3",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/638767f24cc489ef45239272/2x.webp"
+  },
+  "from4": {
+    "group": "Range 4",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 30
+  },
+  "emote4": {
+    "group": "Range 4",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/60aee9d5361b0164e60d02c2/2x.webp"
+  },
+  "from5": {
+    "group": "Range 5",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 50
+  },
+  "emote5": {
+    "group": "Range 5",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "widgetName": {
+    "type": "hidden",
+    "value": "Daily subs emote"
+  },
+  "widgetAuthor": {
+    "type": "hidden",
+    "value": "Theraloss"
+  }
+}
