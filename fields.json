@@ -2,12 +2,12 @@
   "fontColor": {
     "type": "colorpicker",
     "label": "Font color",
-    "value": "rgb(255, 255, 255)"
+    "value": "rgb(0, 0, 0)"
   },
   "fontSize": {
     "type": "slider",
     "label": "Font size",
-    "value": 24,
+    "value": 28,
     "min": 10,
     "max": 50,
     "step": 1
