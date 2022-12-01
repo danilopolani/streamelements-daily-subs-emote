@@ -62,7 +62,7 @@
     "group": "Range 4",
     "type": "number",
     "label": "Display emote from goal",
-    "value": 30
+    "value": 20
   },
   "emote4": {
     "group": "Range 4",
@@ -74,10 +74,154 @@
     "group": "Range 5",
     "type": "number",
     "label": "Display emote from goal",
-    "value": 50
+    "value": 25
   },
   "emote5": {
     "group": "Range 5",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from6": {
+    "group": "Range 6",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 30
+  },
+  "emote6": {
+    "group": "Range 6",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from7": {
+    "group": "Range 7",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 40
+  },
+  "emote7": {
+    "group": "Range 7",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from8": {
+    "group": "Range 8",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 50
+  },
+  "emote8": {
+    "group": "Range 8",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from9": {
+    "group": "Range 9",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 60
+  },
+  "emote9": {
+    "group": "Range 9",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from10": {
+    "group": "Range 10",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 70
+  },
+  "emote10": {
+    "group": "Range 10",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from11": {
+    "group": "Range 11",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 80
+  },
+  "emote11": {
+    "group": "Range 11",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from12": {
+    "group": "Range 12",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 90
+  },
+  "emote12": {
+    "group": "Range 12",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from13": {
+    "group": "Range 13",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 100
+  },
+  "emote13": {
+    "group": "Range 13",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from14": {
+    "group": "Range 14",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 200
+  },
+  "emote14": {
+    "group": "Range 14",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from15": {
+    "group": "Range 15",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 300
+  },
+  "emote15": {
+    "group": "Range 15",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from16": {
+    "group": "Range 16",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 400
+  },
+  "emote16": {
+    "group": "Range 16",
+    "type": "text",
+    "label": "Emote URL",
+    "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
+  },
+  "from17": {
+    "group": "Range 17",
+    "type": "number",
+    "label": "Display emote from goal",
+    "value": 500
+  },
+  "emote17": {
+    "group": "Range 17",
     "type": "text",
     "label": "Emote URL",
     "value": "https://cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb/2x.webp"
