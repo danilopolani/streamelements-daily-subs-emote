@@ -1,5 +1,7 @@
 <link href="https://fonts.bunny.net/css?family=dm-sans:500,500i,600,600i|montserrat:500,600" rel="stylesheet" />
-<script src="https://unpkg.com/petite-vue"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet" />
+<script src="https://unpkg.com/petite-vue@0.4.1/dist/petite-vue.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
 
-<img :src="store.emote" alt="Emote">
+<img :src="store.emote" alt="Emote" class="animate__animated" id="emote-image">
 <p>Daily Subs: {{ store.dailySubs }}</p>
