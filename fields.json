@@ -1,16 +1,33 @@
 {
   "fontColor": {
+    "group": "Style",
     "type": "colorpicker",
     "label": "Font color",
-    "value": "rgb(0, 0, 0)"
+    "value": "rgb(255, 255, 255)"
   },
   "fontSize": {
+    "group": "Style",
     "type": "slider",
     "label": "Font size",
-    "value": 28,
+    "value": 24,
     "min": 10,
     "max": 50,
     "step": 1
+  },
+  "textBorder": {
+    "group": "Style",
+    "type": "checkbox",
+    "label": "Apply border to text"
+  },
+  "textShadow": {
+    "group": "Style",
+    "type": "checkbox",
+    "label": "Apply a light shadow to text"
+  },
+  "text": {
+    "type": "text",
+    "label": "Text being shown",
+    "value": "Daily subs:"
   },
   "startingFrom": {
     "type": "number",

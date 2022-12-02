@@ -49,14 +49,24 @@ const store = PetiteVue.reactive({
 window.addEventListener('onWidgetLoad', function (obj) {
   PetiteVue.createApp({ store }).mount();
   
+  const $text = document.querySelector('#text');
+
   const data = obj.detail.session.data;
   const fieldData = obj.detail.fieldData;
+  const textBorder = Boolean(fieldData.textBorder);
+  const textShadow = Boolean(fieldData.textShadow);
   const startingFrom = parseInt(fieldData.startingFrom);
   const startingDailySubs = startingFrom || data['subscriber-session']['count'];
   
   store.setRanges(computeRanges(fieldData));
   store.setEmote(fieldData.defaultEmote);
   store.setSubs(startingDailySubs);
+  
+  if (textBorder) {
+  	$text.classList.add('with-border'); 
+  } else if (textShadow) {
+  	$text.classList.add('with-shadow'); 
+  }
 });
 
 window.addEventListener('onEventReceived', function (obj) {

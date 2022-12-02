@@ -7,9 +7,18 @@
   text-align: center;
 }
 
-p {
+#text {
   margin-top: 10px;
   margin-bottom: 0;
+}
+
+#text.with-border {
+  text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+
+#text.with-shadow {
+  text-shadow: 2px 2px 0 #000;
 }
 
 #emote-image {
